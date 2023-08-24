@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Julius and Versatile full-stack developer proficient in front-end (React, HTML, CSS) and back-end (Node.js, Express) development. Experienced with DBs (MySQL, MongoDB). I create immersive online experiences and visually stunning designs. I value collaboration and continuous learning, always staying up-to-date with the latest trends. You can check out my twitter at twitter.com/jboyholuwaseun or linkedin.com/in/julius-adeleke-3862811a9 <a href="https://twitter.com/intent/tweet?text=nice project" target="_blank">
+<p align="left">I'm Julius and Versatile full-stack developer proficient in front-end (React, HTML, CSS) and back-end (Node.js, Express) development. Experienced with DBs (MySQL, MongoDB). I create immersive online experiences and visually stunning designs. I value collaboration and continuous learning, always staying up-to-date with the latest trends. You can check out my twitter at twitter.com/jboyholuwaseun or linkedin.com/in/julius-adeleke-3862811a9 <a href="https://twitter.com/intent/jboyholuwaseun" target="_blank">
   <img src="tweet-button.png" alt="Tweet about this" width="100">
 </a></p>
 
