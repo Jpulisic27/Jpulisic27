@@ -35,7 +35,9 @@
 
 ###
 
-<p align="left">I'm Julius and Versatile full-stack developer proficient in front-end (React, HTML, CSS) and back-end (Node.js, Express) development. Experienced with DBs (MySQL, MongoDB). I create immersive online experiences and visually stunning designs. I value collaboration and continuous learning, always staying up-to-date with the latest trends. You can check out my twitter at twitter.com/jboyholuwaseun or linkedin.com/in/julius-adeleke-3862811a9</p>
+<p align="left">I'm Julius and Versatile full-stack developer proficient in front-end (React, HTML, CSS) and back-end (Node.js, Express) development. Experienced with DBs (MySQL, MongoDB). I create immersive online experiences and visually stunning designs. I value collaboration and continuous learning, always staying up-to-date with the latest trends. You can check out my twitter at twitter.com/jboyholuwaseun or linkedin.com/in/julius-adeleke-3862811a9 <a href="https://twitter.com/intent/tweet?text=nice project" target="_blank">
+  <img src="tweet-button.png" alt="Tweet about this" width="100">
+</a></p>
 
 ###
 
@@ -77,9 +79,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jpulisic27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpulisic27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<a href="https://twitter.com/intent/tweet?text=nice project" target="_blank">
-  <img src="tweet-button.png" alt="Tweet about this" width="100">
-</a>
 
 ###
